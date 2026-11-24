@@ -1,7 +1,7 @@
 # D3 · EAP e dicionário da EAP
 
 **Projeto:** Linha de injeção e pintura de para-choques · Plásticos Abrantes (G7) · ENGN62 2026.2
-**Versão:** 0.1 (rascunho) · **Data de status:** 13/11/2026 · **Responsável:** Caique · **Revisão:** ____________
+**Versão:** 0.1 · **Data de status:** 13/11/2026 · **Responsável:** Caique · **Revisão:** Caique Mattos, 24/11/2026
 **Fontes:** tabelas 04, 06, 07 e 09
 
 ## 1. EAP (projeto → 8 entregas → 22 pacotes)
@@ -72,5 +72,3 @@ Regra: entregas e pacotes são **substantivos** (o que se entrega); as atividade
 
 Soma do orçamento dos pacotes e entregas = **R$ 38.271.476** = ONT da frente preditiva (R$ 38.271.476) ✔. A frente ágil (R$ 737.800) é orçada por sprint (tabela 15).
 
----
-*Rascunho gerado a partir dos números do sistema (https://trabalhodegest-odeprojetos.netlify.app, data de corte 13/11/2026, com os boletins B1 a B10 lançados). O responsável revisa, completa os campos em branco, ajusta o texto e assina.*
